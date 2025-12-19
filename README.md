@@ -29,5 +29,3 @@ I build machine learning and data solutions across analytics, operations, and pr
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<img src="https://raw.githubusercontent.com/carloabimanyu/carloabimanyu/output/snake.svg" alt="Snake animation" />
