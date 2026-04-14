@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build machine learning and data solutions across analytics, operations, and product environments by day. I'm currently learning software engineering.
+Engineer building ML systems and backend infrastructure. Passionate about turning complex data workflows into clean, maintainable code.
 
 ### Things I code with
 
